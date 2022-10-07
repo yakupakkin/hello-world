@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yakupakkin
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me yakupakkin@gmail.com
 
